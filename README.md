@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 📫 How to reach me haysa805@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My day job is professional musician and professor.
+- ⚡ Fun fact: My day job is professional musician and college professor.
 
 <!---
 aphays/aphays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
